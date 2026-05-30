@@ -1,0 +1,6 @@
+.cache/
+.hermes/
+.local/
+.npm/
+
+.DS_Store
